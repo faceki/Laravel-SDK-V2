@@ -1,6 +1,6 @@
 var client_id='7bsvancpl4tio60600pn6hnr58';
 var client_secret='1d5bssl48phc3vjfh5ljntkl9b2u6a0r80kit6vg08f9kpf70ch9';
-var API_BASE_URL = "https://apidev.facechain.org";
+var API_BASE_URL = "https://sdk.faceki.com";
 const pathUrl = window.location.pathname;
 const baseUrl = window.location.origin;
 const pathUrlArray1 = pathUrl.split("/");
